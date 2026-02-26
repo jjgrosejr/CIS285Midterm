@@ -1,6 +1,6 @@
 public class factorialcalculator {
     public static void main(String[] args) {
-        int num = 5;  // Predefined number to calculate factorial
+        int num = 10;  // Predefined number to calculate factorial
 
         int factorial = calculateFactorial(num); // Using recursive method
 
